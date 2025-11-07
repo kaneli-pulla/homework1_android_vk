@@ -30,7 +30,7 @@ fun Squares (
                     dimensionResource(R.dimen.button_size)))
     ) {
         items (items = list){
-                item -> Square(item)
+                item -> Square(item=item)
         }
     }
     }
