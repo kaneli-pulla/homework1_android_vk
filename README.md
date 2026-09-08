@@ -1,4 +1,4 @@
-# Number Grid — Android Homework 1
+# Android Homework 1
 
 A small Android application built with **Kotlin** and **Jetpack Compose** for Homework #1 — *Working with Lists*.
 
